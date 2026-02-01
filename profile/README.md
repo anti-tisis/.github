@@ -1,8 +1,15 @@
 <div align="center">
-  <img src="banner.png" alt="Anti-Tisis Banner" width="100%" />
 
-  # Anti-Tisis
-  ### University of Cabuyao
+<div align="center">
+
+```text
+   _           _   _       _____   _     _     
+  /_\  _ __ | |_(_)     /__   \ (_)___(_)___ 
+ //_\\| '_ \| __| |_____  / /\/ | / __| / __|
+/  _  \ | | | |_| |_____|/ /    | \__ \ \__ \
+\_/ \_/_| |_|\__|_|     \/      |_|___/_|___/
+                                             
+```
 
   **Innovating the Future through Code and Collaboration**
 
@@ -71,5 +78,10 @@ We believe in the power of code to solve humanity's most complex challenges. By 
 ---
 
 <div align="center">
-  <img src="footer.png" alt="Footer" width="100%" />
+  
+```text
+// --------------------------------------------------------------------------------------- //
+// ======================================================================================= //
+// --------------------------------------------------------------------------------------- //
+```
 </div>
